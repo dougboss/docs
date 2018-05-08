@@ -157,7 +157,7 @@ Dexcom CGM users have a few different alternatives to retrieve blood glucose val
      * xdrip-js-logger: https://github.com/efidoman/xdrip-js-logger/blob/dev/README.md
 
 ### Entering carbs while offline
-While offline you will not be able to enter carbs and set temporary targets using Nightscout. You have two options to enter carbs while offline. You can use the Medtronic pump's Bolus Wizard. When using the Bolus Wizard, be careful to avoid an A52 error if you have enabled SMB. By default, use of the Bolus Wizard disables SMB for 6 hours. The second option, which as far as we know avoids the A52 risk, is to use the Medtronic pump's Capture Event feature. To turn on the Capture Event feature, do these steps:
+While offline you will not be able to enter carbs and set temporary targets using Nightscout. You have two options to enter carbs while offline. You can use the Medtronic pump's Bolus Wizard. When using the Bolus Wizard, be careful to avoid an A52 error if you have enabled SMB. By default, use of the Bolus Wizard disables SMB for 6 hours. The second option for (Medtronic X23 and later pumps), which as far as we know avoids the A52 risk, is to use the Medtronic pump's Capture Event feature. To turn on the Capture Event feature, do these steps:
 
 1. Go to the CAPTURE EVENT ON/OFF screen: Main > Utilities > Capture Option
 2. Select On, then press ACT.
